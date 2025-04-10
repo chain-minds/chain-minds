@@ -17,10 +17,9 @@
   - Join forces with others who are passionate about **AI and data-driven innovations**
 
 - 📫 How to reach me:
-  - Email: `your-email@example.com` (Replace with your actual email)  
-  - LinkedIn: [Your LinkedIn Profile] (Insert link)  
-  - Twitter: `@your_twitter_handle` (if you have one)  
-  - Or simply drop a message here on GitHub, I’m always open to networking and feedback!
+  - Email: `4faroq@gmail.com` 
+  - LinkedIn: Muhammad Farooq 
+  - Twitter: `@chainmindsX`   
 
 - 😄 Pronouns: He / Him
 
